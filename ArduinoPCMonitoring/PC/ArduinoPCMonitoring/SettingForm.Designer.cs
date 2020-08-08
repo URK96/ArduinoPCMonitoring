@@ -144,6 +144,7 @@
             this.FormBorderStyle = System.Windows.Forms.FormBorderStyle.FixedSingle;
             this.Name = "SettingForm";
             this.ShowIcon = false;
+            this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
             this.Text = "Setting";
             ((System.ComponentModel.ISupportInitialize)(this.UpdateIntervalUpDown)).EndInit();
             this.ResumeLayout(false);
