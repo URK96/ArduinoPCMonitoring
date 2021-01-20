@@ -19,5 +19,9 @@ Show PC hardware information on Arduino with OLED display
 
 * OpenHardwareMonitoring (OHM)
 
+## Product Screenshot
+
+<img src="https://github.com/URK96/ArduinoPCMonitoring/blob/master/GitImages/Product.png" width="40%" height="30%" title="Product"></img>
+
 
 [Making Story (Korean)](https://blog.naver.com/chlwlsgur963/222054368173)
