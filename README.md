@@ -17,7 +17,7 @@ Show PC hardware information on Arduino with OLED display
 
 ## Library
 
-* OpenHardwareMonitoring (OHM)
+* OpenHardwareMonitor (OHM) [Github](https://github.com/openhardwaremonitor/openhardwaremonitor)
 
 ## Product Screenshot
 
